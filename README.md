@@ -7,11 +7,11 @@ Git &amp; Github tutorial for King's AI Research Club
 
 ### **Your Name**
 
-- **Name**: [Your Full Name]
-- **Minor or concentration**: [Course Name or Code]
-- **Year**: [Your current year, e.g., 1st Year, 2nd Year]
-- **Hobbies**: [What do you enjoy doing in your free time?]
-- **Fun fact**: [A fun or unique fact about yourself]
+- **Name**: KAMENI STELLA 
+- **Minor or concentration**: COMPUTER SCIENCE 
+- **Year**: YEAR 2
+- **Hobbies**: BAKING 
+- **Fun fact**: Nothing good comes easy
 
 ---
 
