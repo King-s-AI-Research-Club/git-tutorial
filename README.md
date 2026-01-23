@@ -12,6 +12,7 @@ Git &amp; Github tutorial for King's AI Research Club
 - **Year**: 4th Year
 - **Hobbies**: Playing Games
 - **Fun fact**: learning new things
+done
 
 ---
 
