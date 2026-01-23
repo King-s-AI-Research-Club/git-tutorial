@@ -12,6 +12,7 @@ Git &amp; Github tutorial for King's AI Research Club
 - **Year**: [2nd Year]
 - **Hobbies**: [Market Analysis & Trading]
 - **Fun fact**: [I dunno, is this public? lol]
+really
 
 ---
 
