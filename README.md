@@ -7,11 +7,11 @@ Git &amp; Github tutorial for King's AI Research Club
 
 ### **Your Name**
 
-- **Name**: [Your Full Name]
-- **Minor or concentration**: [Course Name or Code]
-- **Year**: [Your current year, e.g., 1st Year, 2nd Year]
-- **Hobbies**: [What do you enjoy doing in your free time?]
-- **Fun fact**: [A fun or unique fact about yourself]
+- **Name**: Dayana W Lunyelele
+- **Minor or concentration**: Business
+- **Year**:  2nd Year
+- **Hobbies**: Spending time with friends , reading the Bible 
+- **Fun fact**: I speak 4 languages 
 
 ---
 
