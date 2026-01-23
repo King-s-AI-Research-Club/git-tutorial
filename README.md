@@ -5,13 +5,13 @@ Git &amp; Github tutorial for King's AI Research Club
 
 ---
 
-### **Your Name**
+### **Caleb Brost**
 
-- **Name**: [Your Full Name]
-- **Minor or concentration**: [Course Name or Code]
-- **Year**: [Your current year, e.g., 1st Year, 2nd Year]
-- **Hobbies**: [What do you enjoy doing in your free time?]
-- **Fun fact**: [A fun or unique fact about yourself]
+- **Name**: Caleb Brost
+- **Minor or concentration**: idk yet...
+- **Year**: 3rd year
+- **Hobbies**: I like to go to hunting in the fall, hockey in the winter and going to the gym all year round.
+- **Fun fact**: I grew up in Central America Panama (Skinny part between North and South America).
 
 ---
 
