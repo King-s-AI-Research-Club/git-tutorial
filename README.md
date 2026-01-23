@@ -13,7 +13,7 @@ Git &amp; Github tutorial for King's AI Research Club
 - **Hobbies**: Basketball and playing my guitar
 - **Fun fact**: I cannot  handle hot food
 
----
+---§
 
 
 Feel free to add any additional details you'd like to share!
