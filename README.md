@@ -7,12 +7,12 @@ Git &amp; Github tutorial for King's AI Research Club
 
 ### **Your Name**
 
-- **Name**: Raashtra KC
-- **Minor or concentration**: Mathematics
-- **Year**: 4th Year
-- **Hobbies**: Playing Games
-- **Fun fact**: learning new things
-done
+- **Name**: [Daniel Paul Woods]
+- **Minor or concentration**: [Theology]
+- **Year**: [2nd Year]
+- **Hobbies**: [Market Analysis & Trading]
+- **Fun fact**: [I dunno, is this public? lol]
+really
 
 ---
 
